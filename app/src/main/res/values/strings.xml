@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionManagerDemo</string>
+
+    <string name="permission_list">Permission List</string>
+    <string name="permission_individual">Permission Individual</string>
+    <string name="clear_data">Clear Data</string>
+</resources>
